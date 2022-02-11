@@ -1,7 +1,6 @@
-tutorial
-week1
-week2
-week3
-week4
-week5
-week6
+#1 Use freeplay
+mannco1
+mannco2
+mannco3
+mannco4
+mannco5
