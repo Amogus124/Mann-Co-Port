@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Use Freeplay", "face", [0, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "freeplay",
+
+	"storyName": "Use freeplay",
+	"weekBefore": "tutorial",
+	"weekName": "#1 Use freeplay",
+	"difficulties": "hard",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

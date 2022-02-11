@@ -1,0 +1,30 @@
+{
+	"songs": [
+		["monochrome", "scoutexe", [204, 0, 0]],
+		["honorbound", "soldierai", [204, 0, 0]],
+		["eyelander", "demoknight", [204, 0, 0]],
+		["you-cant-run", "demo", [204, 0, 0]],
+		["strongmann", "box", [204, 0, 0]],
+		["dispenser", "heavy", [204, 0, 0]],
+		["may-somethingth", "scunt", [204, 0, 0]],
+		["trolling", "trolldier", [28, 13, 6]],
+		["skill-issue", "snoiper", [239, 239, 239]],
+		["five-minutes", "snoiper", [239, 239, 239]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
