@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "robo engi idle"
+		},
+		{
+			"offsets": [
+				-6,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "robo engi up"
+		},
+		{
+			"offsets": [
+				-6,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "robo engi right"
+		},
+		{
+			"offsets": [
+				4,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "robo engi down"
+		},
+		{
+			"offsets": [
+				-2,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "robo engi left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roboengi",
+	"position": [
+		-175,
+		225
+	],
+	"healthicon": "engi",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pyro_Idle"
+		},
+		{
+			"offsets": [
+				99,
+				289
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pyro_Up"
+		},
+		{
+			"offsets": [
+				-80,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pyro_Right"
+		},
+		{
+			"offsets": [
+				90,
+				-154
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pyro_Down"
+		},
+		{
+			"offsets": [
+				61,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pyro_Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pyro",
+	"position": [
+		0,
+		75
+	],
+	"healthicon": "pyro",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

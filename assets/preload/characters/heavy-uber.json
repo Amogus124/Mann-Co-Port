@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Heavyu_Idle"
+		},
+		{
+			"offsets": [
+				-6,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Heavyu_Up"
+		},
+		{
+			"offsets": [
+				144,
+				-91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Heavyu_Right"
+		},
+		{
+			"offsets": [
+				-101,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Heavyu_Down"
+		},
+		{
+			"offsets": [
+				-8,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Heavyu_Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heavyU",
+	"position": [
+		-100,
+		-40
+	],
+	"healthicon": "heavy",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

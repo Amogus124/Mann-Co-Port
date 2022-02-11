@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "engi idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				52,
+				278
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "engi up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				128,
+				-3
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "engi right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				-67
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "engi down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				90,
+				-7
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "engi left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				340
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				30
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-60
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				200,
+				60
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				170
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "engi die",
+			"indices": []
+		},
+		{
+			"offsets": [
+				190,
+				-70
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "engi balls beat",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "engi live",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/engi-bf",
+	"position": [
+		25,
+		50
+	],
+	"healthicon": "engi",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

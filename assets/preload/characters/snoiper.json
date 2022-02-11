@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				-110,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"offsets": [
+				-70,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				-110,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Pico Note Right0"
+		},
+		{
+			"offsets": [
+				-10,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				63,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shot",
+			"indices": [],
+			"name": "shooting"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snoiper gaming",
+	"position": [
+		-100,
+		200
+	],
+	"healthicon": "snoiper",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		239,
+		239
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

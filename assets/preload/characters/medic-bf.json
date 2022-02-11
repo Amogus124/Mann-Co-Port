@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "medic_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-132,
+				20
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "medic_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-142,
+				51
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "medic_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-108,
+				-122
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "medic_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				97,
+				51
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "medic_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				100
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "medic death",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				-256
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "medic balls beat",
+			"indices": []
+		},
+		{
+			"offsets": [
+				230,
+				100
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "medic confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/medicBF",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "medic",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		400,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

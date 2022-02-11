@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				127
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "soldierai idle"
+		},
+		{
+			"offsets": [
+				70,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "soldierai up"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "soldierai right"
+		},
+		{
+			"offsets": [
+				50,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "soldierai down"
+		},
+		{
+			"offsets": [
+				380,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "soldierai left"
+		},
+		{
+			"offsets": [
+				231,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "slash",
+			"indices": [],
+			"name": "soldierai slash"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soldierai",
+	"position": [
+		0,
+		-125
+	],
+	"healthicon": "soldierai",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
